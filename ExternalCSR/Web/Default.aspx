@@ -58,8 +58,6 @@
             <asp:TextBox ID="txtCN" runat="server" Width="100%" />
             <br /><br />
             <asp:Button ID="btnGenerate" runat="server" Text="Generate CSR" CssClass="btn" OnClick="btnGenerate_Click" />
-            <br /><br />
-            <button type="button" class="btn" onclick="window.location.href='http://jumpserver:3535/InternalCSR/';">Go to Internal CSR</button>
         </form>
     </div>
 </body>
