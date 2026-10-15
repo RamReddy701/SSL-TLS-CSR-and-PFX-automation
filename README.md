@@ -1,12 +1,12 @@
 # 🔐 SSL/TLS CSR & PFX Self-Service Web Portal
 
-A browser-based automation toolkit for self-service Certificate Signing Request (CSR) generation and PKCS#12 (.pfx) packaging on Windows/IIS[cite: 2].
+A browser-based automation toolkit for self-service Certificate Signing Request (CSR) generation and PKCS#12 (.pfx) packaging on Windows/IIS.
 
 ---
 
 ## 📌 Overview
 
-An automated web application suite running on IIS that enables team members to generate CSRs, download them directly, submit them to Certificate Authorities, and easily import signed certs back to generate password-protected PFX bundles via their web browser—without requiring direct server access or manual MMC Snap-in configuration[cite: 2].
+An automated web application suite running on IIS that enables team members to generate CSRs, download them directly, submit them to Certificate Authorities, and easily import signed certs back to generate password-protected PFX bundles via their web browser—without requiring direct server access or manual MMC Snap-in configuration.
 
 ---
 
